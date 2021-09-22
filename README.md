@@ -2,5 +2,5 @@
 
 <br/>
 
-# <center>**CONTROLE EM MALHA ABERTA DE UM CIRCUITO RC**<center/>
-# <center>**SIMULAÇÃO EM PYTHON**<center/>
+### > **Controle em Malha Aberta de um Circuito RC**
+### > **Simulação em Python**
